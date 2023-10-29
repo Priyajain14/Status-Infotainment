@@ -14,3 +14,8 @@ Checklist:
 3. The Company name should also be displayed.
 4. The text area where the code is to be written must have sufficient width and height.
 5. The file to be saved on the server shall have the extension corresponding to the language chosen.
+
+
+
+*Thanks*
+*Happy Learning*
