@@ -17,5 +17,5 @@ Checklist:
 
 
 
-                                                                                        Thanks
-                                                                                   Happy Learning
+                                                          Thanks
+                                                     Happy Learning
